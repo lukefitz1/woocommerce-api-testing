@@ -3,3 +3,5 @@ tests/.idea
 tests/bin
 tests/include
 tests/lib
+tests/.Python
+tests/pip-selfcheck.json
