@@ -1,1 +1,5 @@
 wp_creds.txt
+tests/.idea
+tests/bin
+tests/include
+tests/lib
