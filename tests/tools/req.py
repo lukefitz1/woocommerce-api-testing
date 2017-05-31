@@ -32,7 +32,3 @@ class req():
 		res_url = result.url
 
 		return [res_code, res_body, res_url]
-
-# test the connection
-# x = req()
-# x.test_api()
